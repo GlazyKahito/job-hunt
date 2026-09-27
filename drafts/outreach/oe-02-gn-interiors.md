@@ -19,6 +19,8 @@ My portfolio is https://glazy-portfolio.vercel.app and one live example is CRM36
 
 Would a 10-minute call this week suit you?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

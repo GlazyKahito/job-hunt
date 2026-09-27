@@ -19,6 +19,8 @@ My portfolio is https://glazy-portfolio.vercel.app. The Delivery Exceptions Dash
 
 Would you have 10 minutes for a quick call?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

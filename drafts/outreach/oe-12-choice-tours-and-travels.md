@@ -17,7 +17,9 @@ I'd correct the spelling, update the footer, give tour pages cleaner addresses t
 
 You'll find samples of my work at https://glazy-portfolio.vercel.app, and CRM360, a contact and deal pipeline that suits tour enquiries, at https://majorprojectwebdev.vercel.app
 
-If you like, I can share a free mock-up of one refreshed tour page.
+If you like, I can share a mock-up of one refreshed tour page.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I can fix every title, give pages clear addresses such as /teachers or /kids-bat
 
 My work is at https://glazy-portfolio.vercel.app, and my Delivery Exceptions Dashboard (https://miniprojectwebdev.vercel.app) shows how I structure form submissions so none get lost.
 
-Happy to share a free mock-up, or talk for 10 minutes.
+Happy to share a mock-up, or talk for 10 minutes.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

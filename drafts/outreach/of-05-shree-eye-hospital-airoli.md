@@ -19,6 +19,8 @@ Samples of my work are at https://glazy-portfolio.vercel.app, including a lightw
 
 Could we speak for 10 minutes one evening this week?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

@@ -17,7 +17,9 @@ I'd move you to your own domain and add a demo-class booking form (student age, 
 
 My portfolio is at https://glazy-portfolio.vercel.app, and CRM360, a contact and enquiry tracker I built, is live at https://majorprojectwebdev.vercel.app
 
-I'd be glad to put together a free homepage mock-up for you.
+I'd be glad to put together a homepage mock-up for you.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I'd make you a portfolio site with galleries for each type of event, a page coll
 
 You can browse my own portfolio at https://glazy-portfolio.vercel.app; CRM360, which tracks clients and bookings from first contact, is at https://majorprojectwebdev.vercel.app
 
-I'd be glad to design a free sample homepage for you.
+I'd be glad to design a sample homepage for you.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

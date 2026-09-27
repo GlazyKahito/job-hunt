@@ -17,7 +17,9 @@ I could rebuild that page with current batch dates, fees and slots, add a regist
 
 You can see my work at https://glazy-portfolio.vercel.app, and CRM360 (https://majorprojectwebdev.vercel.app) shows how I organise contact records and follow-ups.
 
-Would a free mock-up of the new Classes page be useful?
+Would a mock-up of the new Classes page be useful?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

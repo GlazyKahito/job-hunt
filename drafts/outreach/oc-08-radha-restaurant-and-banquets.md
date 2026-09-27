@@ -17,7 +17,9 @@ I'd build a site with the veg and Jain menu, a banquet page with photos, capacit
 
 Examples of my work are at https://glazy-portfolio.vercel.app; my Delivery Exceptions Dashboard (https://miniprojectwebdev.vercel.app) sorts incoming requests by priority and status.
 
-Shall I prepare a free mock-up of the banquet page?
+Shall I prepare a mock-up of the banquet page?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

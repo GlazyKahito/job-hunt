@@ -17,7 +17,9 @@ My suggestion is a clean site at that name with two clear sections, civil work a
 
 Examples of my work: https://glazy-portfolio.vercel.app, plus CRM360 at https://majorprojectwebdev.vercel.app, which tracks enquiries through to closed deals.
 
-If it helps, I can mock up the homepage for free first.
+If it helps, I can mock up the homepage first.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I could build a simple site on your own domain with tap-to-call, your timings, d
 
 You can see my work at https://glazy-portfolio.vercel.app and a small, fast project of mine at https://grove-habit-tracker-vert.vercel.app
 
-Shall I send a free mock-up of the homepage?
+Shall I send a mock-up of the homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I'd build a site with your pure-veg menus as readable text, your banquet panel t
 
 My work: https://glazy-portfolio.vercel.app. CRM360, a contact and enquiry tracker I made, is live at https://majorprojectwebdev.vercel.app
 
-Shall I put together a free mock-up of the menu page?
+Shall I put together a mock-up of the menu page?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

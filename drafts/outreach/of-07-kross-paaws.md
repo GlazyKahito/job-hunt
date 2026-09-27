@@ -17,7 +17,9 @@ I'd swap in real reviews from your customers (with their permission), add your M
 
 My portfolio is https://glazy-portfolio.vercel.app; CRM360, a contact tracker I built, is at https://majorprojectwebdev.vercel.app
 
-Would you like a free mock-up of the updated homepage?
+Would you like a mock-up of the updated homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

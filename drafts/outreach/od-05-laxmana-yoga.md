@@ -17,7 +17,9 @@ I could turn it into a text schedule that reads well on mobile, update the studi
 
 My portfolio is https://glazy-portfolio.vercel.app, and Grove (https://grove-habit-tracker-vert.vercel.app), a habit tracker I built, shows the clear, day-by-day layout that works on a small screen.
 
-Would a free mock-up of the new Schedule page help?
+Would a mock-up of the new Schedule page help?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

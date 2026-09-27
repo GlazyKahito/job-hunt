@@ -20,6 +20,7 @@ Read these files first:
   and stop immediately without searching.
 
 ## What to find
+Krutik only wants PAID and ONLINE (remote) internships. Skip unpaid roles, roles with no stated stipend, and on-site or hybrid roles.
 Real, currently open internship postings that fit `candidate.md`: web development, full-stack,
 frontend, or AI-integrated product engineering; remote or Mumbai; open to students. Use
 WebSearch and WebFetch. Postings must be dated within the last 30 days, or be clearly still open.

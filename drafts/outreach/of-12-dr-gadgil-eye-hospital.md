@@ -17,7 +17,9 @@ I'd rewrite that section around the Indian insurers and cashless options you alr
 
 Samples of my work are on https://glazy-portfolio.vercel.app, and a request dashboard I built is at https://miniprojectwebdev.vercel.app
 
-Would a free mock-up of the corrected page help?
+Would a mock-up of the corrected page help?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

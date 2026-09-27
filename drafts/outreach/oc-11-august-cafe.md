@@ -19,6 +19,8 @@ https://glazy-portfolio.vercel.app has my projects, among them ScamShield (https
 
 I could walk you through the idea on a short 10-minute call, if that suits.
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

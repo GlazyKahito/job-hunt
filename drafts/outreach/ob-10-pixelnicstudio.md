@@ -17,7 +17,9 @@ I would add a short maternity and newborn enquiry form (due date or age, preferr
 
 Portfolio: https://glazy-portfolio.vercel.app. CRM360, where enquiries move through a pipeline until they are closed, is at https://majorprojectwebdev.vercel.app
 
-Could I send over a free mock-up of that page?
+Could I send over a mock-up of that page?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

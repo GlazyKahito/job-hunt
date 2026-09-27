@@ -17,7 +17,9 @@ I would replace it with clear clinic information: timings, directions from Ghatk
 
 My portfolio is at https://glazy-portfolio.vercel.app, and one relevant project is a dashboard with a form-submission workflow: https://miniprojectwebdev.vercel.app
 
-Would a free contact-page mock-up be useful?
+Would a contact-page mock-up be useful?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

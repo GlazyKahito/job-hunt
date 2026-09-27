@@ -17,7 +17,9 @@ I can set up the site properly with a valid HTTPS certificate, a gallery split i
 
 You can see what I build at https://glazy-portfolio.vercel.app; CRM360, my pipeline and contact tracker, runs at https://majorprojectwebdev.vercel.app
 
-Happy to share a free homepage mock-up if you'd like to see one.
+Happy to share a homepage mock-up if you'd like to see one.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

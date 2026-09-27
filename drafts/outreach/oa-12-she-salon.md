@@ -17,7 +17,9 @@ I would create a new site with your hair, spa, manicure and facial services, a s
 
 To see what I do, visit https://glazy-portfolio.vercel.app; CRM360 (https://majorprojectwebdev.vercel.app) is a full-stack app I built with contact tracking and notifications.
 
-Shall I prepare a free mock-up of your homepage?
+Shall I prepare a mock-up of your homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

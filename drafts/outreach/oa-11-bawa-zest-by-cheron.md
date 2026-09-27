@@ -19,6 +19,8 @@ Some of my projects are at https://glazy-portfolio.vercel.app, including CRM360 
 
 Could we set up a 10-minute call to go over it?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

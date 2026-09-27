@@ -17,7 +17,9 @@ I'd turn the rate card into a web page clients can filter by service and branch,
 
 Portfolio: https://glazy-portfolio.vercel.app. My Delivery Exceptions Dashboard (https://miniprojectwebdev.vercel.app) filters records by priority and status, much like a filterable rate card.
 
-I'd be glad to share a free mock-up of that rate card page.
+I'd be glad to share a mock-up of that rate card page.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I'd add "starting from" prices, the address in text, and a redirect from that ol
 
 Samples of my work: https://glazy-portfolio.vercel.app. CRM360 (https://majorprojectwebdev.vercel.app), a full-stack app I built with contact tracking, is the most relevant.
 
-I'm happy to mock up the new services page for free first.
+I'm happy to mock up the new services page first.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I'd make that button open a simple appointment request form that emails the clin
 
 My portfolio is https://glazy-portfolio.vercel.app, and a request-tracking dashboard I built is at https://miniprojectwebdev.vercel.app
 
-If helpful, I can send a free mock-up of the fixed homepage.
+If helpful, I can send a mock-up of the fixed homepage.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

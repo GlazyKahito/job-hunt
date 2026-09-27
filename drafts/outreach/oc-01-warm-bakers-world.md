@@ -17,7 +17,9 @@ I'd tidy the copy, write a proper search description, move the site to its own d
 
 Browse https://glazy-portfolio.vercel.app for my projects, or Grove (https://grove-habit-tracker-vert.vercel.app), a light HTML, CSS and JavaScript build like yours.
 
-Would a free mock-up of the refreshed homepage be useful?
+Would a mock-up of the refreshed homepage be useful?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

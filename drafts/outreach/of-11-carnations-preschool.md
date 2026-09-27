@@ -17,7 +17,9 @@ I'd replace those with short, real teacher introductions and add an admissions e
 
 My portfolio is https://glazy-portfolio.vercel.app, and a small project built with plain HTML, CSS and JavaScript is at https://grove-habit-tracker-vert.vercel.app
 
-I'm happy to send a free mock-up of the teacher section.
+I'm happy to send a mock-up of the teacher section.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

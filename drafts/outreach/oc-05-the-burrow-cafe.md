@@ -17,7 +17,9 @@ I'd build a small site that leans into the Alice in Wonderland idea: the menu in
 
 You can see my work at https://glazy-portfolio.vercel.app. Grove (https://grove-habit-tracker-vert.vercel.app) is a playful, lightweight build with three.js touches.
 
-Could I put together a free mock-up of your homepage?
+Could I put together a mock-up of your homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

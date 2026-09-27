@@ -19,6 +19,8 @@ My portfolio is at https://glazy-portfolio.vercel.app, and Grove (https://grove-
 
 Could we have a 10-minute call this week?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

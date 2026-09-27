@@ -17,7 +17,9 @@ I could get that address working again with a fast, phone-first site: a project 
 
 Samples of my work are at https://glazy-portfolio.vercel.app, and CRM360, a lead and deal tracker I built, is live at https://majorprojectwebdev.vercel.app
 
-May I send you a free homepage mock-up for sandeepinterior.com?
+May I send you a homepage mock-up for sandeepinterior.com?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I'd rebuild it to fit any screen: a text menu, the three Bandra branches with ta
 
 You can browse my projects at https://glazy-portfolio.vercel.app; Grove (https://grove-habit-tracker-vert.vercel.app) is a lightweight HTML, CSS and JavaScript build.
 
-Could I show you a free mock-up of the new homepage?
+Could I show you a mock-up of the new homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I could rebuild it as a responsive site with your services, both office addresse
 
 My portfolio is at https://glazy-portfolio.vercel.app; one relevant piece is a Delivery Exceptions Dashboard with filtering and a submission workflow: https://miniprojectwebdev.vercel.app
 
-I can share a free mock-up of the new homepage.
+I can share a mock-up of the new homepage.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

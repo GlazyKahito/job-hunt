@@ -17,7 +17,9 @@ I'd put together a clean, mobile-first site with the menu in text, opening hours
 
 My portfolio is at https://glazy-portfolio.vercel.app, and Grove (https://grove-habit-tracker-vert.vercel.app) shows how quickly a simple HTML, CSS and JavaScript site loads.
 
-If it helps, I can make a free mock-up of the homepage first.
+If it helps, I can make a mock-up of the homepage first.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

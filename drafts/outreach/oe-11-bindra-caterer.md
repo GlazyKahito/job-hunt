@@ -17,7 +17,9 @@ I'd set up a site with separate pages for weddings, parties and corporate cateri
 
 My portfolio is https://glazy-portfolio.vercel.app, and CRM360, where enquiries move through stages until they're confirmed, is live at https://majorprojectwebdev.vercel.app
 
-Would you be open to a free mock-up of the homepage?
+Would you be open to a mock-up of the homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

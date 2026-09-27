@@ -17,7 +17,9 @@ I would build an admissions page in real text covering the NIOS and early interv
 
 You can browse my work at https://glazy-portfolio.vercel.app; CRM360, a contact-tracking app with notifications, is at https://majorprojectwebdev.vercel.app
 
-Would a 10-minute call or a free homepage mock-up help?
+Would a 10-minute call or a homepage mock-up help?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

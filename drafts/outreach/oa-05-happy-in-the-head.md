@@ -17,7 +17,9 @@ I'd love to build a bright one-page site with a colour-work gallery, services wi
 
 The portfolio at https://glazy-portfolio.vercel.app is itself a project I designed and built, with a 3D project wheel, so it shows the care I'd put into yours.
 
-If it helps, I can make a free mock-up of your homepage first.
+If it helps, I can make a mock-up of your homepage first.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

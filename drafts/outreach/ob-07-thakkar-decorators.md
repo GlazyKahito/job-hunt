@@ -17,7 +17,9 @@ I'd correct both, write the numbers in Indian format, and add a WhatsApp button 
 
 My work is at https://glazy-portfolio.vercel.app; CRM360, which tracks contacts and deals through a pipeline, is live at https://majorprojectwebdev.vercel.app
 
-Would you like a free mock-up of the contact section?
+Would you like a mock-up of the contact section?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

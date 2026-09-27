@@ -17,7 +17,9 @@ I could build a small site listing each service (interior cleaning, exterior res
 
 Examples of my work are on https://glazy-portfolio.vercel.app; for tracking jobs by status and priority, see https://miniprojectwebdev.vercel.app
 
-Would you like me to send a free mock-up of the booking page?
+Would you like me to send a mock-up of the booking page?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I would set up a fresh site on your own domain listing your dance styles, batch 
 
 My portfolio is https://glazy-portfolio.vercel.app, and CRM360 (https://majorprojectwebdev.vercel.app), a full-stack app I built, shows how I manage contacts and enquiries end to end.
 
-Could I send you a free mock-up of the homepage?
+Could I send you a mock-up of the homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

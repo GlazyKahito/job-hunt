@@ -19,6 +19,8 @@ Examples of my work are at https://glazy-portfolio.vercel.app, including CRM360,
 
 Could I take 10 minutes on a call this week?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

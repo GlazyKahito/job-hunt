@@ -17,7 +17,9 @@ If the domain can be recovered I'd rebuild the site on it, otherwise on a fresh 
 
 My projects are at https://glazy-portfolio.vercel.app, including ScamShield (https://scamshield-olive.vercel.app), which explains why a link looks risky.
 
-Could I send you a free mock-up of a new homepage?
+Could I send you a mock-up of a new homepage?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

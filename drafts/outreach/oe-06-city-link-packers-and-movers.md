@@ -17,7 +17,9 @@ I would make the layout fit phones properly, turn both numbers into tap-to-call 
 
 My past work is at https://glazy-portfolio.vercel.app, and for logistics, see the delivery-exceptions dashboard I built: https://miniprojectwebdev.vercel.app
 
-Could we talk for 10 minutes, or would a free mock-up be easier?
+Could we talk for 10 minutes, or would a mock-up be easier?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

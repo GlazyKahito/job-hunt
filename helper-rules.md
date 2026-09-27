@@ -27,6 +27,8 @@ Other helpers are working at the same time on neighbouring segments. Stay strict
 
 ## A. Internship applications
 
+**Krutik only wants PAID and ONLINE (remote) internships.** Skip anything unpaid, with no stated stipend, on-site or hybrid.
+
 **Accept a posting only if:** it is an internship; it is open now (dated within ~30 days, or clearly
 still accepting); it accepts candidates located in India; it fits `candidate.md` (skip roles that
 need a finished degree, final-year status, experience he lacks, or core skills not listed).
@@ -111,6 +113,7 @@ Subject: <specific to them>
    `candidate.md`.
 5. A low-pressure ask: a 10-minute call or a free mock-up of their homepage.
 6. Signature lines: `Krutik Mhatre` / `+91 90822 02088` / `kahitokrutik@gmail.com`
+6b. The line `This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.` directly before the signature. Never offer anything for free.
 7. Final line exactly: `If this isn't useful, just reply 'no thanks' and I won't email again.`
 No two drafts may share a sentence except the signature and opt-out line.
 

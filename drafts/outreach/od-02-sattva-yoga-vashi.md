@@ -17,7 +17,9 @@ I'd like to build a fresh, phone-friendly site with each programme, batch timing
 
 My portfolio is https://glazy-portfolio.vercel.app; for something close in spirit, Grove (https://grove-habit-tracker-vert.vercel.app) is a light, fast site I built with plain HTML, CSS and JavaScript.
 
-If you're open to it, I could send a free homepage mock-up first.
+If you're open to it, I could send a homepage mock-up first.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

@@ -17,7 +17,9 @@ I would build a simple site with your full address and a map, hours on every pag
 
 Portfolio: https://glazy-portfolio.vercel.app. A comparable piece is my Delivery Exceptions Dashboard, which has a submission workflow: https://miniprojectwebdev.vercel.app
 
-Could I send you a free homepage mock-up?
+Could I send you a homepage mock-up?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

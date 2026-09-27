@@ -17,7 +17,9 @@ I would connect the enquiry and sign-up forms to a service that emails you every
 
 My portfolio is https://glazy-portfolio.vercel.app. A related project is my Delivery Exceptions Dashboard, which logs and filters form submissions: https://miniprojectwebdev.vercel.app
 
-I'm happy to send a free mock-up of the updated contact page.
+I'm happy to send a mock-up of the updated contact page.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

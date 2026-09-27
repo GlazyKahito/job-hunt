@@ -17,7 +17,9 @@ I'd build a site with a gallery of your cakes, the Vishwadeep Heights address an
 
 You'll find my projects on https://glazy-portfolio.vercel.app, and my Delivery Exceptions Dashboard (https://miniprojectwebdev.vercel.app) logs and filters incoming requests, the idea behind an enquiry form.
 
-I'd be glad to make a free homepage mock-up if you're interested.
+I'd be glad to make a homepage mock-up if you're interested.
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

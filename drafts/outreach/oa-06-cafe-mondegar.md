@@ -17,7 +17,9 @@ What I'd build is a simple, quick-loading site: menu, opening hours, a short his
 
 Examples of my work are at https://glazy-portfolio.vercel.app. ScamShield (https://scamshield-olive.vercel.app), a Next.js app I built and deployed, shows I can ship something fast and keep it online.
 
-May I send you a free homepage mock-up to look at?
+May I send you a homepage mock-up to look at?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

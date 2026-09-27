@@ -19,6 +19,8 @@ My work is at https://glazy-portfolio.vercel.app; one MERN project I've shipped 
 
 Would a short 10-minute call be useful?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

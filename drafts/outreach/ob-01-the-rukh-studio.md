@@ -17,7 +17,9 @@ I would fix that link and add a short project enquiry form (name, phone, area, t
 
 You can see my work at https://glazy-portfolio.vercel.app, including CRM360, a contact and deal tracker I built during my internship: https://majorprojectwebdev.vercel.app
 
-Would a free mock-up of that contact section be helpful?
+Would a mock-up of that contact section be helpful?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

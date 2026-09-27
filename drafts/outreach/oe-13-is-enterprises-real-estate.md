@@ -19,6 +19,8 @@ My work is collected at https://glazy-portfolio.vercel.app. I also built CRM360,
 
 Could we have a 10-minute call about it?
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

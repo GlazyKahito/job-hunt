@@ -19,6 +19,8 @@ You'll find my portfolio at https://glazy-portfolio.vercel.app and a project tha
 
 Happy to talk it through on a 10-minute call.
 
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
+
 Krutik Mhatre
 +91 90822 02088
 kahitokrutik@gmail.com

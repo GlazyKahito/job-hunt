@@ -17,7 +17,9 @@ I'd replace the ordering flow with a simple cake order form for your Goregaon, A
 
 My builds are collected at https://glazy-portfolio.vercel.app, among them CRM360 (https://majorprojectwebdev.vercel.app), a MERN app I deployed with notifications and role-based access.
 
-Could I send you a free mock-up of a working order page?
+Could I send you a mock-up of a working order page?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088

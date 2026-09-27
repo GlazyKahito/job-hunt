@@ -17,7 +17,9 @@ I'd like to turn it into a text menu organised by category, list all three branc
 
 You can see my work at https://glazy-portfolio.vercel.app; my Delivery Exceptions Dashboard (https://miniprojectwebdev.vercel.app) uses similar filtering and form handling.
 
-Would a free mock-up of the new menu page be helpful?
+Would a mock-up of the new menu page be helpful?
+
+This would be a paid project, and I work fully online, so everything can happen over email, WhatsApp and video calls.
 
 Krutik Mhatre
 +91 90822 02088
