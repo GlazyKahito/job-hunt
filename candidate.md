@@ -22,7 +22,7 @@ GPAs, years of experience or skill levels may be invented or estimated.
   Do not state a year number, CGPA or rank.
 
 ## Experience
-- Web Development Intern, Ediglobe, July 2026 to present.
+- Web Development Intern, Ediglobe, July 2026 to September 2026 (completed; certificate: https://www.ediglobe.com/cert/EGCC2459). Describe it in the past tense: "completed a web development internship at Ediglobe". Never say "currently" an intern.
   - Built an internal delivery-exceptions dashboard (HTML, CSS, JavaScript) for a GreyAtom
     Logistics brief: dynamic filtering, ticket detail views, and a submission workflow to log,
     filter and resolve exceptions by priority and status.

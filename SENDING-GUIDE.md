@@ -15,8 +15,7 @@ kahitokrutik@gmail.com. Follow this guide exactly.
 ## Krutik's rules
 - **Paid work only, done fully online.** Every cold email already says this. For internships,
   confirm the stipend is paid and the role is remote before sending. If the posting says unpaid or on-site, don't send.
-- **Pace: at most 10 to 15 emails a day**, spread through the day, never in one burst.
-  Sending all 68 at once from a personal Gmail is the fastest way to get flagged as spam.
+- **Pace: at most 25 emails every 3 hours** (Krutik's setting), spaced out within each window, never in one burst. Pause for the day if bounces or spam warnings appear.
 - **Send each draft as written.** Don't send the same text to anyone else, add recipients, or
   combine drafts.
 - **Before sending, re-open the business's website** and check the problem the email describes still exists. If it has been fixed, delete that draft instead.
@@ -24,6 +23,9 @@ kahitokrutik@gmail.com. Follow this guide exactly.
 - **Stop at "no thanks".** If anyone replies no, or asks not to be contacted, set `response` to
   `no-thanks` in `tracking/outreach.csv` and never email them again.
 - **No follow-ups** unless Krutik asks for them.
+
+## Before sending anything else
+The unsent drafts still describe Krutik as a CURRENT Ediglobe intern. He completed it in September 2026. Do not send them until that line is rewritten to the past tense.
 
 ## After sending
 For each email sent, update the tracker row: set `status` to `sent` and `date_sent` to YYYY-MM-DD. When
