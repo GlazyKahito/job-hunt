@@ -13,11 +13,11 @@ I am Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of 
 
 On omdattadentalclinic.com/contact-us.php, the "Get In Touch!" section says "We are specialists in economics and information technologies", which is sample text from the website template rather than anything about dentistry. For patients in Ghatkopar West deciding where to book a root canal or implant consultation, a line like that makes the page feel unfinished.
 
-I would replace it with clear clinic information: timings, directions from Ghatkopar station, the treatments you offer, and a short appointment request form asking only for name, phone and a preferred slot.
+I would replace it with clear clinic information: timings, directions from Ghatkopar station, your treatments, and an appointment request form asking only for name, phone and a preferred slot.
 
 My portfolio is at https://glazy-portfolio.vercel.app, and one relevant project is a dashboard with a form-submission workflow: https://miniprojectwebdev.vercel.app
 
-Would a free mock-up of the contact page be useful?
+Would a free contact-page mock-up be useful?
 
 Krutik Mhatre
 +91 90822 02088

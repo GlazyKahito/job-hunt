@@ -13,7 +13,7 @@ I'm Krutik Mhatre, a web developer from Mumbai. I'm a B.Tech student at KJ Somai
 
 On your homepage, the second number is shown as 750-668-4656, but tapping it dials 7506684658, so one of the two is wrong and some callers may reach a stranger. The address also gives the PIN as 400006, while Kandivali West is 400067. For a decorator, one missed call can mean a missed wedding or birthday booking.
 
-I'd correct both, write the numbers in the usual Indian format, and add a WhatsApp button plus an event enquiry form that asks for date, venue and type of function.
+I'd correct both, write the numbers in Indian format, and add a WhatsApp button plus an enquiry form asking for date, venue and type of function.
 
 My work is at https://glazy-portfolio.vercel.app; CRM360, which tracks contacts and deals through a pipeline, is live at https://majorprojectwebdev.vercel.app
 

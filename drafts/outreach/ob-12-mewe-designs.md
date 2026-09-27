@@ -11,9 +11,9 @@ Hello Mewe Designs team,
 
 I'm Krutik Mhatre, a web developer from Mumbai, doing a B.Tech at KJ Somaiya College of Engineering and working as a Web Development Intern at Ediglobe.
 
-When I tried mewedesigns.com/projects (your menu calls that section Projects), the site returned Django's technical debug page with an error traceback instead of a normal "page not found" message. That screen is meant only for developers; it shows internal code details to visitors and indicates that debug mode is switched on in production.
+When I tried mewedesigns.com/projects (your menu calls that section Projects), the site returned Django's technical debug page with an error traceback instead of a normal "page not found" message. That screen is meant only for developers; it shows internal code details to visitors and means debug mode is on in production.
 
-I would turn debug mode off, add a friendly 404 page that points back to your portfolio, redirect likely addresses such as /projects to the right pages, and check that the Get Quote form delivers every enquiry to your inbox.
+I would turn debug mode off, add a friendly 404 page that points back to your portfolio, redirect addresses like /projects correctly, and check that the Get Quote form delivers every enquiry to your inbox.
 
 Portfolio: https://glazy-portfolio.vercel.app. CRM360 is a full-stack app with role-based access that I deployed to Vercel: https://majorprojectwebdev.vercel.app
 

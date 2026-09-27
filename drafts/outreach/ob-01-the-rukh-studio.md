@@ -9,11 +9,11 @@ Subject: The email link on The Rukh Studio's website
 
 Hello Rukh Studio team,
 
-I'm Krutik Mhatre, a web developer in Mumbai, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer in Mumbai, a B.Tech student at KJ Somaiya College of Engineering and currently a Web Development Intern at Ediglobe.
 
 While looking at therukhstudio.com, I noticed that the footer line "Email Id : therukhstudio@gmail.com" is linked to info@mysite.com, the placeholder address Wix puts in new templates. Anyone who taps it to ask about a kitchen or a full flat gets a draft addressed to the wrong inbox, so an interested client could write to you and never hear back.
 
-I would fix that link and add a short project enquiry form (name, phone, area, type of space) that lands directly in your Gmail, next to your Mahim address and phone number.
+I would fix that link and add a short project enquiry form (name, phone, area, type of space) that lands in your Gmail.
 
 You can see my work at https://glazy-portfolio.vercel.app, including CRM360, a contact and deal tracker I built during my internship: https://majorprojectwebdev.vercel.app
 

@@ -41,7 +41,8 @@ function card(d, kind) {
   const m = d.meta;
   const isEmail = /@/.test(m.to || "") && !/^apply via/i.test(m.to || "");
   const title = kind === "outreach" ? m.business : `${m.company} — ${m.role}`;
-  const sub = kind === "outreach" ? `${m.category || ""} · ${m.location || ""}` : `${m.location || ""}`;
+  const deadline = m.deadline && !/not shown/i.test(m.deadline) ? ` · Apply by ${m.deadline}` : "";
+  const sub = kind === "outreach" ? `${m.category || ""} · ${m.location || ""}` : `${m.location || ""}${deadline}`;
   const note = kind === "outreach" ? m["observed need"] : "";
   const formUrl = (m.to || "").replace(/^apply via form:\s*/i, "") || m.posting;
   const actions = isEmail

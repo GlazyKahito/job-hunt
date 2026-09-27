@@ -9,15 +9,15 @@ Subject: A phone-friendly website for A P Nagpal & Company
 
 Dear Sir/Madam,
 
-My name is Krutik Mhatre. I build websites, study for a B.Tech at KJ Somaiya College of Engineering in Vidyavihar, and am working as a Web Development Intern at Ediglobe.
+My name is Krutik Mhatre. I build websites, study for a B.Tech at KJ Somaiya College of Engineering, and work as a Web Development Intern at Ediglobe.
 
-On nagpalandco.com, the "Latest Updates" box on the home page still lists the Union Budget 2013-14 highlights under a "Coming Soon..." line. The page also has no mobile viewport setting, so on my phone it loads as a shrunken desktop table that has to be pinched and zoomed. Clients checking your Vile Parle address or sending a query from a phone may simply give up.
+On nagpalandco.com, the "Latest Updates" box on the home page still lists the Union Budget 2013-14 highlights under a "Coming Soon..." line. The page also has no mobile viewport setting, so on my phone it loads as a shrunken desktop table that needs pinching and zooming. Clients sending a query from a phone may give up.
 
-I could rebuild it as a responsive site with your services, both office addresses, a simple online query form, and an updates section you can edit yourself.
+I could rebuild it as a responsive site with your services, both office addresses, an online query form, and an updates section you can edit yourself.
 
 My portfolio is at https://glazy-portfolio.vercel.app; one relevant piece is a Delivery Exceptions Dashboard with filtering and a submission workflow: https://miniprojectwebdev.vercel.app
 
-If useful, I can share a free mock-up of the new homepage.
+I can share a free mock-up of the new homepage.
 
 Krutik Mhatre
 +91 90822 02088

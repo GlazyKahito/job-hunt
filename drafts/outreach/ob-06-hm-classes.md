@@ -13,9 +13,9 @@ I'm Krutik Mhatre, a Mumbai web developer studying for a B.Tech at KJ Somaiya Co
 
 While reading hmclasses.in I found two blog posts: the default WordPress "Hello world!" post, and one titled "kms activator windows 10", which is about pirated Windows activation. Parents searching for your Malad West classes could land on that page, and posts like this sometimes appear when a login or plugin has been misused.
 
-I would help you remove both posts, update WordPress and its plugins, change passwords, and then add a clean admissions and results section for your school and college batches.
+I would help you remove both posts, update WordPress and its plugins, change passwords, and add a clean admissions section for your school and college batches.
 
-My portfolio: https://glazy-portfolio.vercel.app. Since this is partly a safety issue, you may like ScamShield, a tool I built that explains why a message or link looks risky: https://scamshield-olive.vercel.app
+My portfolio: https://glazy-portfolio.vercel.app. On the safety side, see ScamShield, a tool I built that explains why a message or link looks risky: https://scamshield-olive.vercel.app
 
 Could we talk for 10 minutes this week?
 

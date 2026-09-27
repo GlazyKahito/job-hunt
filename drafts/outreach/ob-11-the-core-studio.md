@@ -11,9 +11,9 @@ Hello Anuja and Sameer,
 
 I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering, Mumbai, now working as a Web Development Intern at Ediglobe.
 
-Your portfolio at thecorestudio.in shows a wide range of corporate, food and interiors work, but the only way to get in touch is one footer line with an email and two mobile numbers, and it still says 2019. A marketing manager comparing photographers usually wants to send a brief (shoot type, number of products or spaces, dates) without having to call.
+Your portfolio at thecorestudio.in shows a wide range of corporate, food and interiors work, but the only contact route is one footer line with an email and two mobile numbers, still dated 2019. A marketing manager comparing photographers usually wants to send a brief (shoot type, number of products or spaces, dates) without having to call.
 
-I would add a brief form that emails you each request, a contact page with your studio location, and an updated footer, while keeping your current gallery design as it is.
+I would add a brief form that emails you each request, a contact page with your studio location, and an updated footer, keeping your gallery design as it is.
 
 More of my work: https://glazy-portfolio.vercel.app. For something related, CRM360 tracks contacts and deals on a sales pipeline board: https://majorprojectwebdev.vercel.app
 

@@ -13,7 +13,7 @@ I'm Krutik Mhatre, a student web developer (B.Tech, KJ Somaiya College of Engine
 
 Your contact page sends its form to a contact.php file, but vidhyashalaacademy.com is hosted on GitHub Pages, which cannot run PHP; when I checked that address it answered with a 405 error, so parents' messages are probably failing. Separately, opening https://vidhyashalaacademy.com without "www" shows a certificate warning.
 
-I would connect the enquiry and sign-up forms to a service that emails you every message, fix the certificate on the short address, and make both branch addresses and phone numbers easy to tap on a phone.
+I would connect the enquiry and sign-up forms to a service that emails you every message, fix the certificate on the short address, and make both branch phone numbers tap-to-call.
 
 My portfolio is https://glazy-portfolio.vercel.app. A related project is my Delivery Exceptions Dashboard, which logs and filters form submissions: https://miniprojectwebdev.vercel.app
 
