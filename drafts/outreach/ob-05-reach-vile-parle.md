@@ -9,7 +9,7 @@ Subject: Admissions enquiries on the REACH website
 
 Dear REACH team,
 
-My name is Krutik Mhatre; I'm a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I currently intern as a web developer at Ediglobe.
+My name is Krutik Mhatre; I'm a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 On reach-sre.org/admissions, the main content is a poster image reading "School Admission 2025-26", and the page has no form. A parent who finds you now, in 2026-27, cannot tell whether admissions are open or leave details for a callback, and text inside an image is invisible to screen readers and search.
 

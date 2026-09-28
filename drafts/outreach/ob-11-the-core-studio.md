@@ -9,7 +9,7 @@ Subject: An enquiry form for the CORE studio
 
 Hello Anuja and Sameer,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering, Mumbai, now working as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering, Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your portfolio at thecorestudio.in shows a wide range of corporate, food and interiors work, but the only contact route is one footer line with an email and two mobile numbers, still dated 2019. A marketing manager comparing photographers usually wants to send a brief (shoot type, number of products or spaces, dates) without having to call.
 

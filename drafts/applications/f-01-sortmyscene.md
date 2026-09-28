@@ -9,7 +9,7 @@ Subject: Application: Full Stack Developer Intern Internship – Krutik Mhatre
 
 Hello SortMyScene team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and currently a Web Development Intern at Ediglobe. I'd like to apply for the Full Stack Developer Intern opening, listed as Software Engineer, at your Goregaon office.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe. I'd like to apply for the Full Stack Developer Intern opening, listed as Software Engineer, at your Goregaon office.
 
 SortMyScene's focus on high-traffic, real-time event discovery and ticketing is the kind of product I want to learn to build, and I noticed the role spans both the MERN stack and React Native.
 

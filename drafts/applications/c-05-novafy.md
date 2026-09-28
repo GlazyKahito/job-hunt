@@ -6,7 +6,7 @@ Posting: https://www.linkedin.com/jobs/view/4471488562/
 To: apply via form: https://www.linkedin.com/jobs/view/4471488562/
 Subject: Application: Software Development Internship – Krutik Mhatre
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and Web Development Intern at Ediglobe, and I'd like to apply for Novafy's Software Development Intern (100% Remote) position.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, and I'd like to apply for Novafy's Software Development Intern (100% Remote) position.
 
 Nova plans, confirms and executes ERP actions for finance teams from inside Microsoft Teams, and your posting names both Claude and Gemini APIs, structured outputs and multi-turn flows.
 

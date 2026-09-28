@@ -9,7 +9,7 @@ Subject: Application: Frontend & Backend Developer Internship – Krutik Mhatre
 
 Hello FreeCo Education team,
 
-I'm Krutik Mhatre, a Web Development Intern at Ediglobe and B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), applying for the remote Frontend & Backend Developer internship.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) who recently completed a web development internship at Ediglobe, and I'm applying for the remote Frontend & Backend Developer internship.
 
 The role pairs responsive front-end work with server-side logic, API integration and data handling, and helping build tools behind FreeCo's textbook solutions and doubt-solving services for learners is work I would enjoy.
 

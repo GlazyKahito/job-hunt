@@ -9,7 +9,7 @@ Subject: A home on the web for Happy in the Head
 
 Hi Happy in the Head team,
 
-I'm Krutik, a B.Tech student at KJ Somaiya College of Engineering and a Web Development Intern at Ediglobe, and I design and build websites here in Mumbai.
+I'm Krutik, a B.Tech student at KJ Somaiya College of Engineering who recently completed a web development internship at Ediglobe, and I design and build websites here in Mumbai.
 
 Your Facebook page shows hundreds of happy reviews, yet the salon has no website. Searching for you brings up directories and old blog posts, so a new client can't easily check your colour work or services before calling.
 

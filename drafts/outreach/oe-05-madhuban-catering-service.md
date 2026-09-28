@@ -9,7 +9,7 @@ Subject: The website in your Facebook bio doesn't open
 
 Hello Madhuban Catering team,
 
-I'm Krutik Mhatre from Mumbai. I'm a web developer, a B.Tech student at KJ Somaiya College of Engineering, and at present a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre from Mumbai. I'm a web developer, a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 Your Facebook bio lists www.purpleplattecatereres.com, but the address doesn't open, and the spelling used in your email address doesn't either. Families booking a caterer for a wedding or party usually want to read menus before they call, and right now there's nowhere to send them.
 

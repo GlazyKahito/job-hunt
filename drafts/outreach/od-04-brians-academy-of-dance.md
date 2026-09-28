@@ -9,7 +9,7 @@ Subject: dancebrian.com now shows a Wix "Reconnect Your Domain" page
 
 Hello Brian,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Vidyavihar, close to Chembur, and I work as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Vidyavihar, close to Chembur, and I recently completed a web development internship at Ediglobe.
 
 The website on your academy's Sulekha listing, www.dancebrian.com, now redirects to Wix's "Reconnect Your Domain" page, which usually means the domain or plan has lapsed. People searching for Bollywood, salsa or wedding choreography classes in Chembur end up there instead of seeing your academy.
 

@@ -9,7 +9,7 @@ Subject: A phone-friendly website for A P Nagpal & Company
 
 Dear Sir/Madam,
 
-My name is Krutik Mhatre. I build websites, study for a B.Tech at KJ Somaiya College of Engineering, and work as a Web Development Intern at Ediglobe.
+My name is Krutik Mhatre. I build websites, study for a B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 On nagpalandco.com, the "Latest Updates" box on the home page still lists the Union Budget 2013-14 highlights under a "Coming Soon..." line. The page also has no mobile viewport setting, so on my phone it loads as a shrunken desktop table that needs pinching and zooming. Clients sending a query from a phone may give up.
 

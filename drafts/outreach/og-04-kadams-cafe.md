@@ -9,7 +9,7 @@ Subject: kadamscafe.com isn't loading for customers
 
 Hello Kadams Cafe team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your LBB page points people to www.kadamscafe.com, but that domain currently doesn't exist at all, so visitors just see a "site can't be reached" error. For a neighbourhood cafe in Mulund East, that link is often the first thing a new customer taps before deciding to drop by.
 

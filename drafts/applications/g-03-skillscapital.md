@@ -9,7 +9,7 @@ Subject: Application: Software Engineer (Full Stack) Internship – Krutik Mhatr
 
 Dear SkillsCapital team,
 
-I am Krutik Mhatre, currently a Web Development Intern at Ediglobe alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I would like to be considered for your fully remote Software Engineer Intern (Full Stack) position.
+I am Krutik Mhatre; I recently completed a web development internship at Ediglobe alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I would like to be considered for your fully remote Software Engineer Intern (Full Stack) position.
 
 Building recruiter and client workflows, dashboards and LLM-powered semantic matching for a platform that helps firms hire specialist technology talent sounds like a problem where product quality really shows.
 

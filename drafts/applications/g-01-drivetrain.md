@@ -9,7 +9,7 @@ Subject: Application: Engineering Intern – Gen AI for FP&A Platform Internship
 
 Hello Drivetrain team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and a Web Development Intern at Ediglobe, applying for the remote Engineering Intern – Gen AI for FP&A Platform role listed for India.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, applying for the remote Engineering Intern – Gen AI for FP&A Platform role listed for India.
 
 Your posting asks for interns who can take RAG, agentic workflows and LLMs into a financial planning product and show the work end to end, which is the kind of project I enjoy most.
 

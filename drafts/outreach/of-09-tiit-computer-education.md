@@ -9,7 +9,7 @@ Subject: Old TIIT course links on Google now show a parking page
 
 Hello TIIT team,
 
-I'm Krutik Mhatre, a Mumbai web developer who is studying B.Tech at KJ Somaiya College of Engineering and interning as a web developer at Ediglobe.
+I'm Krutik Mhatre, a Mumbai web developer who is studying B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 When I searched for computer classes in Mira Road, Google still showed several TIIT course pages on tiitcomputereducation.live. Clicking them, including the Java Full Stack page and "Our Location", lands on a GoDaddy domain-parking page rather than your new tiiteducation.com site. An about-us link from search on the new site also shows "This Page Does Not Exist".
 

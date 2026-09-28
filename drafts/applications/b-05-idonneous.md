@@ -8,7 +8,7 @@ Subject: Application: Full Stack Development (Part Time) Internship – Krutik M
 
 Hello Idonneous team,
 
-Krutik Mhatre here, a B.Tech student at KJ Somaiya College of Engineering, Mumbai (2025 to 2029) and Web Development Intern at Ediglobe, applying for the part-time Full Stack Development internship in Mumbai.
+Krutik Mhatre here, a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe, applying for the part-time Full Stack Development internship in Mumbai.
 
 Because Idonneous runs outsourced sales and marketing programmes, it makes sense that this role centres on React.js, Node.js and Express work for RetailEdge Pro, along with testing, debugging and deployment support.
 

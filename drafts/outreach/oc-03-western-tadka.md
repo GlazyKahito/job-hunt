@@ -9,7 +9,7 @@ Subject: westerntadka.com is showing someone else's site
 
 Hi Western Tadka team,
 
-I'm Krutik Mhatre from Mumbai: a B.Tech student at KJ Somaiya College of Engineering and a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre from Mumbai: a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 I wanted to flag something I noticed today. westerntadka.com, which search results still describe as your pure veg and Jain restaurant, now opens an unrelated Indonesian-language gaming page titled "RAJA88 X Westerntadka", and the old /menu/indian page returns a 404. Diners looking for your menu may land there instead.
 

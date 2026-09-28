@@ -9,7 +9,7 @@ Subject: A typo in the email address on jointsnmotion.in
 
 Hello JointsnMotion team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I'm presently interning in web development at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I recently completed a web development internship at Ediglobe.
 
 Your footer shows the clinic email as "jointsnmotion@gmaill.com", with a double "l". The link behind it is correct, but patients who copy the text or type it into their phone would be writing to the wrong domain.
 

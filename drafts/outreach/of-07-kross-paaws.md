@@ -9,7 +9,7 @@ Subject: Kross Paaws' website shows sample reviews and no phone number
 
 Hi Kross Paaws team,
 
-I'm Krutik Mhatre, a student web developer in Mumbai (B.Tech, KJ Somaiya College of Engineering) who is also a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a student web developer in Mumbai (B.Tech, KJ Somaiya College of Engineering) who recently completed a web development internship at Ediglobe.
 
 On krosspaaws.com, the "Hear What Our Clients Say" section still shows the theme's sample reviews: dummy Latin text signed "Brooklyn Simon, Designer". The header also has "Office Address" and "Phone Number" labels with nothing filled in, so a pet parent in Thane can't find where you are or call you from the site.
 

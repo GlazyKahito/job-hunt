@@ -9,7 +9,7 @@ Subject: Application: Web Development Internship – Krutik Mhatre
 
 Hello IIEDM team,
 
-I'm Krutik Mhatre, a Mumbai-based B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), currently interning in web development at Ediglobe. Please consider me for the Web Development internship at IIEDM.
+I'm Krutik Mhatre, a Mumbai-based B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe. Please consider me for the Web Development internship at IIEDM.
 
 The posting centres on building websites in HTML and CSS and tuning them for speed, accessibility and responsiveness, which is the part of front-end work I enjoy most.
 

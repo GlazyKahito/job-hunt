@@ -9,7 +9,7 @@ Subject: bawazest.in isn't loading
 
 Hello Bawa Zest team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering, a Web Development Intern at Ediglobe, and a web developer based in Mumbai.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering and a web developer based in Mumbai who recently completed a web development internship at Ediglobe.
 
 Your Facebook page points people to bawazest.in, but the domain doesn't load at all: the DNS lookup fails, so the browser just shows an error. Anyone on Hill Road hunting for Parsi food, or planning a catering order with Cheron, loses the trail right there.
 

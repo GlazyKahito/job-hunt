@@ -9,7 +9,7 @@ Subject: Making the IndulgeBakes menus easier to order from
 
 Hi Indulge team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 I spent some time on indulgebakes.com and loved the range, from cheesecakes to hampers. One thing stood out: each menu, like the brownie menu, is a tall poster image, so on a phone customers have to pinch and zoom to read flavours and prices, and Google can't read them either. There's also no way to send an order request from the site, and the Specials tab still opens with Easter.
 

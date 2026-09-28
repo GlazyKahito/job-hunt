@@ -8,7 +8,7 @@ Subject: Application: Full Stack Development – Next.js + Claude SDK Internship
 
 Hello SuperMoney team,
 
-I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) and a Web Development Intern at Ediglobe, writing to apply for your Full Stack Development – Next.js + Claude SDK internship in Mumbai.
+I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) who recently completed a web development internship at Ediglobe, writing to apply for your Full Stack Development – Next.js + Claude SDK internship in Mumbai.
 
 I noticed SuperMoney lends to the unorganised segment alongside partners such as Uber, Swiggy and Ashok Leyland, and that this role pairs Next.js and Node.js work with MongoDB, unit tests and AI API integration.
 

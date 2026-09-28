@@ -9,7 +9,7 @@ Subject: Placeholder "Lorem ipsum" text on platinumfitness.in
 
 Hi Platinum Fitness team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I'm currently interning as a web developer at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I recently completed a web development internship at Ediglobe.
 
 On platinumfitness.in, the "Gym-Plus" popup still shows Latin "Lorem ipsum" filler where a description should be, the page also contains the template address info@example.com, and the footer reads © 2024. Someone in Borivali East or Dahisar comparing gyms on their phone may read the filler as a sign the site isn't looked after.
 

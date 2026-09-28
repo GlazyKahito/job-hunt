@@ -9,7 +9,7 @@ Subject: The website on Sattva Yoga's Sulekha listing no longer opens
 
 Hello Prachi,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, currently interning in web development at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I recently completed a web development internship at Ediglobe.
 
 Your Sulekha listing for Sattva Yoga in Vashi sends visitors to www.sattvayoga.co.in, but that domain no longer exists, so anyone who clicks it sees a browser error instead of your classes. For a studio offering power yoga and pregnancy therapy, that click is often when a new student decides whether to call.
 

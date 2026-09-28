@@ -9,7 +9,7 @@ Subject: napadance.in Events page still shows July 2024 as upcoming
 
 Hello N.A.P.A team,
 
-My name is Krutik Mhatre. I'm a B.Tech student at KJ Somaiya College of Engineering in Mumbai and a web developer, working at present as a Web Development Intern at Ediglobe.
+My name is Krutik Mhatre. I'm a B.Tech student at KJ Somaiya College of Engineering in Mumbai and a web developer, and I recently completed a web development internship at Ediglobe.
 
 I was reading the Events page on napadance.in and saw that the "Current & Upcoming" section still leads with July 2024, and the site footer says ©2025. Parents in Borivali checking the academy before enrolling could assume nothing new is planned, even when fresh batches and shows are running.
 

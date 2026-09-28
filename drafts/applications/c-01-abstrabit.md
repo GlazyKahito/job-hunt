@@ -6,7 +6,7 @@ Posting: https://www.linkedin.com/jobs/view/4469134659/
 To: apply via form: https://www.linkedin.com/jobs/view/4469134659/
 Subject: Application: Software Engineering Internship – Krutik Mhatre
 
-I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and currently a Web Development Intern at Ediglobe, applying for the remote Software Engineering Intern role at Abstrabit.
+I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, applying for the remote Software Engineering Intern role at Abstrabit.
 
 Your posting draws a clear line between the AI layer and the application layer that makes models useful, with APIs, authentication, databases and interfaces, and that application layer is where I have been doing most of my building.
 

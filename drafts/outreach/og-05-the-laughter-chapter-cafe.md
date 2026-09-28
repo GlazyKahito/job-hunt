@@ -9,7 +9,7 @@ Subject: thelaughterchapter.com now shows a betting page
 
 Hi Prachiti, Pratik and Kunal,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 I wanted to flag something: Google still shows thelaughterchapter.com as your cafe's site, with Menu and Contact pages, but those pages now return "404 Not Found" and the homepage has become a Vietnamese sports-betting page. Someone searching for the cafe opposite Mulund College of Commerce could easily land there and think it's connected to you.
 

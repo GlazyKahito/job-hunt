@@ -9,7 +9,7 @@ Subject: Application: Full-Stack Developer Internship – Krutik Mhatre
 
 Hello PrepLinc team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and Web Development Intern at Ediglobe, and I'd like to apply for the Full-Stack Developer internship.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, and I'd like to apply for the Full-Stack Developer internship.
 
 PrepLinc's goal of giving students from Tier-2 and Tier-3 colleges the same guidance and senior mentorship that Tier-1 students get is one I relate to as a student myself, and the role's mix of REST APIs, responsive interfaces and MongoDB or SQL data work fits what I do.
 

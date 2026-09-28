@@ -9,7 +9,7 @@ Subject: Clinic address on the Physio-Wellness Clinic website
 
 Hello Dr. Priyanka Sukthankar,
 
-I'm Krutik Mhatre. I'm a B.Tech student at KJ Somaiya College of Engineering, a web developer, and at present a Web Development Intern at Ediglobe here in Mumbai.
+I'm Krutik Mhatre. I'm a B.Tech student at KJ Somaiya College of Engineering, a web developer, and I recently completed a web development internship at Ediglobe.
 
 On physiotherapyinandheri.in, the contact details say only "Mumbai, India, 400093" alongside an 080 number, with no street address or map. A new patient with back or knee pain in Andheri East cannot easily work out where to go, and your weekday hours are visible only inside the doctor profile.
 

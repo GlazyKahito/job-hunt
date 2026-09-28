@@ -9,7 +9,7 @@ Subject: isenterprises.org isn't opening from your Facebook page
 
 Dear I.S. Enterprises,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering and a Mumbai web developer, now working as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering and a Mumbai web developer, and I recently completed a web development internship at Ediglobe.
 
 Your Facebook page links to isenterprises.org, but that address doesn't load; the domain can't be found. Your flats for sale, like the 2 BHK flat on your page, only appear as Facebook posts, which buyers can't easily filter.
 

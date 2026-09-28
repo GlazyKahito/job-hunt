@@ -6,7 +6,7 @@ Posting: https://www.linkedin.com/jobs/view/4468467368/
 To: apply via form: https://www.linkedin.com/jobs/view/4468467368/
 Subject: Application: Product Engineer – AI Agentic Systems Internship – Krutik Mhatre
 
-I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and a Web Development Intern at Ediglobe, applying for the part-time Product Engineer Intern – AI Agentic Systems role at Readyly.
+I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, applying for the part-time Product Engineer Intern – AI Agentic Systems role at Readyly.
 
 Readyly's agents answer residents around the clock and route complex issues to the right local government team, and your posting asks interns to study agent failure modes and reliability, not only to ship features.
 

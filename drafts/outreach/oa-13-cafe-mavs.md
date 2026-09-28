@@ -9,7 +9,7 @@ Subject: An order page for Cafe Mavs' custom cakes
 
 Hello Cafe Mavs,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering; I also work as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering; I recently completed a web development internship at Ediglobe.
 
 I noticed Cafe Mavs doesn't have a website: the Facebook page only links to Instagram, and the Instagram bio has no link either. Someone wanting a birthday cake has to scroll through posts and then call or DM, without seeing flavours, sizes or how much notice you need.
 

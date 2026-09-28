@@ -9,7 +9,7 @@ Subject: Application: Full Stack Development Internship – Krutik Mhatre
 
 Hello Mark My Ad team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and a Web Development Intern at Ediglobe, applying for your work-from-home Full Stack Development internship.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, applying for your work-from-home Full Stack Development internship.
 
 An ad inventory portal that brings influencers, radio, TV, OTT, newspapers and magazines into one marketplace is an interesting data problem, and your stack of Next.js with TypeScript, Node.js and MongoDB is the one I build with most.
 

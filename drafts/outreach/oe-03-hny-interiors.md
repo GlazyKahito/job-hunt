@@ -9,7 +9,7 @@ Subject: hnyspaces.com is showing a security warning
 
 Hello HNY Interiors,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I'm interning as a web developer at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I recently completed a web development internship at Ediglobe.
 
 I opened hnyspaces.com from your Facebook page and Chrome stopped me with a "connection is not private" warning. Behind it, the server only replies "404 page not found". A homeowner comparing modular kitchen designers is unlikely to click past a security warning.
 

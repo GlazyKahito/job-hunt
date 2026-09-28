@@ -9,7 +9,7 @@ Subject: dentalrecharge.com is redirecting to a temporary Bluehost address
 
 Hello Dental Recharge team,
 
-I am Krutik Mhatre, a Mumbai-based web developer. I'm pursuing a B.Tech at KJ Somaiya College of Engineering and interning in web development at Ediglobe.
+I am Krutik Mhatre, a Mumbai-based web developer. I'm pursuing a B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 When I typed dentalrecharge.com, the browser was sent to mtc.upa.mybluehostin.me, a temporary hosting address, and every menu link on the site points there too. Patients in Parel who see an unfamiliar address may doubt they are on the clinic's real site, and search engines may list the temporary address instead of yours.
 

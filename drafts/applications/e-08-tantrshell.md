@@ -9,7 +9,7 @@ Subject: Application: Web Developer Intern (Full Stack) Internship – Krutik Mh
 
 Hello TantrShell team,
 
-I'm Krutik Mhatre, applying for the Web Developer Intern (Full Stack) role. I study B.Tech at KJ Somaiya College of Engineering (2025 to 2029) and work as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, applying for the Web Developer Intern (Full Stack) role. I study B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe.
 
 Your listing names React, Next.js, Node.js, Express, MongoDB, TypeScript and Tailwind CSS, which is very close to the stack I already build with, and TantrShell's focus on ready-made digital solutions for businesses is the kind of practical work I want more of.
 

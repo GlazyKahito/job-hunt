@@ -9,7 +9,7 @@ Subject: Menus and enquiries online for Bindra Caterer
 
 Hello Bindra Caterer,
 
-My name's Krutik Mhatre. I'm a web developer and a B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I currently intern at Ediglobe as a web developer.
+My name's Krutik Mhatre. I'm a web developer and a B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 I came across your Facebook page for catering marriages, birthdays and corporate meetings in Sanpada. There's no website linked, so a company planning a meeting lunch can't see menus or send you the event details except by phone.
 

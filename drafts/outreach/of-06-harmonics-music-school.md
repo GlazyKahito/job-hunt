@@ -9,7 +9,7 @@ Subject: A proper home for Harmonics Music School online
 
 Hello Harmonics team,
 
-I'm a web developer called Krutik Mhatre, doing my B.Tech at KJ Somaiya College of Engineering in Mumbai and interning in web development at Ediglobe right now.
+I'm a web developer called Krutik Mhatre, doing my B.Tech at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your website is still on a free harmonicsmusicschool.weebly.com address, and every page ends with Weebly's own "Create your own unique website" advert. The Contact page gives only your address and phone number, so a parent browsing at night has no way to leave a request for a guitar or drums demo.
 

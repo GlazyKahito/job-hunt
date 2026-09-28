@@ -9,7 +9,7 @@ Subject: Two links on v2gether.in lead to "page not found"
 
 Hello V2gether team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I'm working as a Web Development Intern at Ediglobe this year.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 I was reading about your IELTS and German courses and clicked the founder's card for Mithilesh Dubey on your homepage. It opened a "404 Not Found" page, and the logo in the footer does the same. Students often click the founder's profile to judge an institute, so that link is worth fixing.
 

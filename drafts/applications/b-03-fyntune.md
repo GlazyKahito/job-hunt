@@ -8,7 +8,7 @@ Subject: Application: ReactJS Development Internship – Krutik Mhatre
 
 Hello FynTune team,
 
-I'm Krutik Mhatre, currently pursuing a B.Tech at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) alongside my role as a Web Development Intern at Ediglobe, and I'd like to be considered for the ReactJS Development internship (Thane / Navi Mumbai / Panvel).
+I'm Krutik Mhatre, currently pursuing a B.Tech at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) and recently completed a web development internship at Ediglobe, and I'd like to be considered for the ReactJS Development internship (Thane / Navi Mumbai / Panvel).
 
 Since FynTune builds technology platforms for insurance companies and intermediaries, I understand the interns will build responsive React.js and Tailwind CSS interfaces and wire them to RESTful APIs and outside data sources.
 

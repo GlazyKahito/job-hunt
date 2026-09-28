@@ -8,7 +8,7 @@ Subject: Application: Front End Developer Internship – Krutik Mhatre
 
 Hello Cornflakes Media team,
 
-Krutik Mhatre is my name; I am a B.Tech student at KJ Somaiya College of Engineering, Mumbai (2025 to 2029), a Web Development Intern at Ediglobe, and an applicant for your Front End Developer Intern position in Mumbai.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering, Mumbai (2025 to 2029) who recently completed a web development internship at Ediglobe, and I'm applying for your Front End Developer Intern position in Mumbai.
 
 The line in your listing that "the interface is the product" caught my attention, along with the focus on Three.js and React Three Fiber scenes and motion built with GSAP and Framer Motion.
 

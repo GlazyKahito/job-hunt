@@ -9,7 +9,7 @@ Subject: Application: Web App Full Stack Development (Part Time) Internship – 
 
 Hello ArchScale Guild team,
 
-I'm Krutik Mhatre, currently a Web Development Intern at Ediglobe and a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029). I'm writing about the part-time Web App Full Stack Development internship.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe. I'm writing about the part-time Web App Full Stack Development internship.
 
 Building a connected set of applications for architects, interior designers and studio owners sounds like a rewarding brief, and I noticed you give preference to people who have deployed working apps and understand authentication, authorization and secure API access.
 

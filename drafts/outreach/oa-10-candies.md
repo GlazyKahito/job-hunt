@@ -9,7 +9,7 @@ Subject: Making candiescafe.com work on phones
 
 Hi Candies team,
 
-I'm Krutik Mhatre, a web developer in Mumbai. Alongside my B.Tech at KJ Somaiya College of Engineering, I'm a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer in Mumbai. Alongside my B.Tech at KJ Somaiya College of Engineering, I recently completed a web development internship at Ediglobe.
 
 On a phone-sized screen, candiescafe.com loads at desktop width, so visitors must scroll sideways. The menu is shown as pictures, "The Buzz" page still says "Page Coming Soon", and the footer reads 2014. For most people checking a cafe on the go, this is their first impression.
 

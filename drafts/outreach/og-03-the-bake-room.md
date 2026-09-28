@@ -9,7 +9,7 @@ Subject: The website link in The Bake Room's Instagram bio
 
 Hi Bijal and The Bake Room team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your Instagram bio lists www.thebakeroom.com, but tapping it right now sends people to a domain-sale listing on atom.com rather than to anything about your pure-veg designer cakes. With over 20,000 followers, that's a lot of curious customers landing somewhere unrelated.
 

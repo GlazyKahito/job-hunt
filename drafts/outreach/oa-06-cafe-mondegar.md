@@ -9,7 +9,7 @@ Subject: An official website for Cafe Mondegar
 
 Hello Cafe Mondegar,
 
-I'm Krutik Mhatre. I'm a web developer, a B.Tech student at KJ Somaiya College of Engineering, and at the moment a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre. I'm a web developer, a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 For a Colaba landmark that visitors plan trips around, it surprised me that there's no official website. Your Facebook page lists no site, the Instagram profile has no link, and the menu only lives on delivery apps, so someone planning an evening can't see your hours and full menu in one trustworthy place.
 

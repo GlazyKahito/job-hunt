@@ -8,7 +8,7 @@ Subject: Application: Web Development Internship – Krutik Mhatre
 
 Dear Celebrare hiring team,
 
-Please consider my application for the Web Development internship (work from home). I am pursuing a B.Tech at KJ Somaiya College of Engineering (2025 to 2029) and have been a Web Development Intern at Ediglobe since July 2026.
+Please consider my application for the Web Development internship (work from home). I am pursuing a B.Tech at KJ Somaiya College of Engineering (2025 to 2029) and completed a web development internship at Ediglobe (July to September 2026).
 
 Celebrare has taken wedding invitations digital, with over 300,000 Play Store downloads, and this role grows the SaaS side through React and Tailwind CSS components, API integrations and state management. At Ediglobe I built CRM360 (https://majorprojectwebdev.vercel.app), a MERN CRM where sales teams move deals across a pipeline board, keep contacts organised and receive notifications under role-based permissions. My other Ediglobe build is a delivery-exceptions dashboard (https://miniprojectwebdev.vercel.app) whose dynamic filters, ticket detail views and submission workflow let a team log and resolve exceptions by priority and status.
 

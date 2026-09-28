@@ -9,7 +9,7 @@ Subject: Two sets of opening hours on aspetsalon.in
 
 Hello A'S Pet Salon team,
 
-Krutik Mhatre here, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently working as a Web Development Intern at Ediglobe.
+Krutik Mhatre here, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 The footer of aspetsalon.in gives two timings for each day, for example Tuesday 9:30 AM to 8:30 PM and also 11:00 AM to 7:00 PM. A pet parent planning a drop-off can't tell which is correct. The same footer shows a public "Admin Panel" button and a 2022 copyright.
 

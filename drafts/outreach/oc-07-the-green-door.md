@@ -9,7 +9,7 @@ Subject: A home online for The Green Door, Goregaon
 
 Hi Green Door team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering, and I currently intern in web development at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 The Green Door's Facebook page lists a phone number and this email but no website, and searching for the restaurant brings up only Swiggy, Zomato, magicpin, District and JustDial pages. Those apps put other restaurants beside yours, and none lets a guest send you a party enquiry directly.
 

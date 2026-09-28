@@ -8,7 +8,7 @@ Subject: Application: MERN Stack Developer Internship – Krutik Mhatre
 
 Hello TG Levels team,
 
-My name is Krutik Mhatre; I study B.Tech at KJ Somaiya College of Engineering, Mumbai (2025 to 2029), work as a Web Development Intern at Ediglobe, and am applying for the MERN Stack Developer internship at your Navi Mumbai office.
+My name is Krutik Mhatre; I study B.Tech at KJ Somaiya College of Engineering, Mumbai (2025 to 2029), and I recently completed a web development internship at Ediglobe, and am applying for the MERN Stack Developer internship at your Navi Mumbai office.
 
 The role description stood out because it spells out JWT-based authentication, role-based access control, MongoDB schema design and reusable Express middleware for the platforms behind your research services and Mentorchamp Edtech.
 

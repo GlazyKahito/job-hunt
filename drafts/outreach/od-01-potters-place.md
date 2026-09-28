@@ -9,7 +9,7 @@ Subject: Potter's Place class page still says classes begin 15 March 2025
 
 Hello Shalan and the Potter's Place team,
 
-I'm Krutik Mhatre, a web developer, B.Tech student at KJ Somaiya College of Engineering in Mumbai, and Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer, B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your Classes page on pottersplace.co.in still says "Classes and workshops will begin from 15 March 2025", and the homepage Updates stop at 2019. Someone keen to learn wheel throwing can't tell whether a batch is open, or request a Friday or Saturday slot online.
 

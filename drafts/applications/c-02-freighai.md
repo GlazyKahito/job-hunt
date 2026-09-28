@@ -6,7 +6,7 @@ Posting: https://internshala.com/internship/detail/work-from-home-software-devel
 To: apply via form: https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-freighai1790187569
 Subject: Application: Software Development Engineering (Web) Internship – Krutik Mhatre
 
-My name is Krutik Mhatre; I study B.Tech at KJ Somaiya College of Engineering (2025 to 2029), work as a Web Development Intern at Ediglobe, and would like to be considered for the Software Development Engineering (Web) internship at FreighAi.
+My name is Krutik Mhatre; I study B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, and would like to be considered for the Software Development Engineering (Web) internship at FreighAi.
 
 FreighAi's agents, from reading RFQs to reconciling invoices, hold a human approval gate before anything is sent, and the React operator screens around those agents are the part I most want to help build.
 

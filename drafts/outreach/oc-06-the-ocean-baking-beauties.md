@@ -9,7 +9,7 @@ Subject: A website for The Ocean Baking Beauties
 
 Hi Ocean Baking Beauties team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites; right now I'm a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites; I recently completed a web development internship at Ediglobe.
 
 Looking you up, I found your Facebook page plus Zomato, JustDial and WeddingWire listings, but no website of your own. People ordering wedding or celebration cakes often want to browse past designs first, and today those are scattered across platforms that also show other bakers.
 

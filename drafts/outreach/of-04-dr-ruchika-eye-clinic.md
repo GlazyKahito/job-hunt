@@ -9,7 +9,7 @@ Subject: The "Book Appointment" button on your clinic website
 
 Dear Dr. Ruchika Kedia,
 
-I'm a Mumbai web developer named Krutik Mhatre. I study B.Tech at KJ Somaiya College of Engineering and work as a Web Development Intern at Ediglobe.
+I'm a Mumbai web developer named Krutik Mhatre. I study B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 On drruchikaeyeclinic.com, the "Book Appointment" button at the top doesn't open anything. The footer service links behave the same way, and two of them read "Galucoma" and "Contaract". I also couldn't find clinic timings on the home or contact page, usually the first thing a new patient checks.
 

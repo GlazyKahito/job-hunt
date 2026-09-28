@@ -9,7 +9,7 @@ Subject: Sweat On Fitness website: swim batch timings and the 2018 footer
 
 Hello Sweat On Fitness team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 While looking at sweatonfitness.co.in, I noticed the footer still reads "©2018 Copyright", and the swimming classes page gives a phone number but no batch timings or fees. People comparing pools in Goregaon and Malad usually want those details before they call, and an old date can make them unsure whether the page is current.
 

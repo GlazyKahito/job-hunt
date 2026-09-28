@@ -9,7 +9,7 @@ Subject: A line about US Medicare on your appointment page
 
 Dear Dr. Gadgil and team,
 
-I'm Krutik Mhatre, a web developer, B.Tech student at KJ Somaiya College of Engineering in Mumbai and Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer, B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Right under the appointment form on drgadgileyeclinic.com, the page says "If you qualify for Medicare, the costs of Eye Treatments are typically covered." Medicare is an American scheme, which may confuse patients in Thane. The menu and form also read "Lasik Sugery", "Catract Surgery" and "Genral Eye Checkup".
 

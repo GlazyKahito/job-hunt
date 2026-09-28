@@ -9,7 +9,7 @@ Subject: fusspot.in is showing "Store unavailable"
 
 Hi Fuss Pot,
 
-I'm Krutik Mhatre, a Mumbai web developer. I study B.Tech at KJ Somaiya College of Engineering and I'm a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai web developer. I study B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 I found your Khar store through LBB and went to fusspot.in from your Facebook page, but it shows Shopify's "Store unavailable" message instead of your clothes. Anyone who wants to browse the co-ords and dresses before visiting the garage store just sees that notice and leaves.
 

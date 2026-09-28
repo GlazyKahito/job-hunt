@@ -56,8 +56,8 @@ To: <published application email, or "apply via form: <url>">
 Subject: Application: <Role title> Internship – Krutik Mhatre
 ```
 Body:
-1. One line: who he is (B.Tech student at KJ Somaiya College of Engineering, Web Development
-   Intern at Ediglobe) and the exact role applied for.
+1. One line: who he is (B.Tech student at KJ Somaiya College of Engineering who recently completed
+   a web development internship at Ediglobe) and the exact role applied for.
 2. One or two sentences on why this company or role, based on a real detail from the posting.
 3. Two or three sentences on the 1 or 2 most relevant projects from `candidate.md`, with live links.
 4. Links line: Portfolio https://glazy-portfolio.vercel.app | Resume

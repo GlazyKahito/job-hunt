@@ -9,7 +9,7 @@ Subject: A website for Dwaraka Veg Restaurant, Borivali
 
 Hi Dwaraka team,
 
-Hello from Krutik Mhatre, a Mumbai web developer studying for a B.Tech at KJ Somaiya College of Engineering and working as a Web Development Intern at Ediglobe.
+Hello from Krutik Mhatre, a Mumbai web developer studying for a B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 Dwaraka's Facebook page gives your Shimpoli Cross Road address, landline and this email, and mentions dine-in, outdoor seating and pickup, but links to no website. Without a site of your own, a family nearby deciding where to eat has no single place to check your menu, timings or photos.
 

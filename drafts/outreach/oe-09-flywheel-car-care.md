@@ -9,7 +9,7 @@ Subject: A booking page for Flywheel Car Care in Seawoods
 
 Hi Flywheel team,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering (Mumbai), and I'm working as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering (Mumbai), and I recently completed a web development internship at Ediglobe.
 
 Your Seawoods shop has strong Facebook reviews, but the page lists no website. A car owner searching for detailing near Nerul or Seawoods can't see your packages or pick a time without calling or messaging first.
 

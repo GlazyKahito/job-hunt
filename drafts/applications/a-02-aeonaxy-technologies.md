@@ -8,7 +8,7 @@ Subject: Application: Next.js Developer Internship – Krutik Mhatre
 
 Hi Aeonaxy team,
 
-I'm applying for the Next.js Developer internship. Some context on me: B.Tech at KJ Somaiya College of Engineering (2025 to 2029), plus work since July 2026 as a Web Development Intern at Ediglobe.
+I'm applying for the Next.js Developer internship. Some context on me: B.Tech at KJ Somaiya College of Engineering (2025 to 2029), plus a web development internship at Ediglobe that I completed in September 2026.
 
 Your listing pairs Next.js and Tailwind CSS with shadcn and a PostgreSQL backend, all aimed at changing how education works, and that mix is where I want to grow. DCN Virtual Lab (https://dcn-proj.vercel.app), my coursework capstone, turns computer networking into something students can handle directly: a drag-and-drop topology designer, packet simulation with a Wireshark-style inspector, and a rule-based engine covering ten fault scenarios, written in React 19, TypeScript and Tailwind CSS. On the Next.js side, ScamShield (https://scamshield-olive.vercel.app) uses TypeScript and Zod to re-validate model output on the server before anything reaches the page.
 

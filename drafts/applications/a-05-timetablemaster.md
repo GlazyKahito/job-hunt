@@ -8,7 +8,7 @@ Subject: Application: Software Development Internship – Krutik Mhatre
 
 Dear TimetableMaster team,
 
-I'd like to apply for the Software Development internship. I'm Krutik Mhatre; alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), I work as a Web Development Intern at Ediglobe.
+I'd like to apply for the Software Development internship. I'm Krutik Mhatre; alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), I recently completed a web development internship at Ediglobe.
 
 Scheduling software that builds timetables automatically for schools and colleges is a product I would enjoy working on, and the role's mix of writing, testing and debugging features in JavaScript, Node.js and React fits what I already do. For Ediglobe I shipped CRM360 (https://majorprojectwebdev.vercel.app), a full-stack React, Node.js, Express and MongoDB app with role-based access, notifications and a pipeline board. On my own I made Grove (https://grove-habit-tracker-vert.vercel.app), a free habit tracker in plain JavaScript and three.js that keeps every user's data in their browser. Python is among my languages as well.
 

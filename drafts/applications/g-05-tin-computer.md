@@ -9,7 +9,7 @@ Subject: Application: Growth Engineering Internship – Krutik Mhatre
 
 Hi,
 
-I'm Krutik Mhatre, applying for the remote Growth Engineering Intern role at Tin; I'm a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, applying for the remote Growth Engineering Intern role at Tin; I'm a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe.
 
 Tin being Apache 2.0, with each workflow living in the repo as a folder of steps, inputs and evaluations, means an intern's work is public and reviewable, which is how I prefer to build.
 

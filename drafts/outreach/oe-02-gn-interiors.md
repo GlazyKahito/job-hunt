@@ -9,7 +9,7 @@ Subject: gnconstructionandinterior.com isn't loading from your Facebook page
 
 Hi,
 
-I'm Krutik Mhatre, a web developer living in Mumbai. I study B.Tech at KJ Somaiya College of Engineering and I'm a Web Development Intern at Ediglobe right now.
+I'm Krutik Mhatre, a web developer living in Mumbai. I study B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 Your Facebook page lists gnconstructionandinterior.com as your website, but when I clicked it the browser said the address couldn't be found. People who see your console unit and shoe rack work usually want to check a proper site before calling, so a broken link can cost you that enquiry.
 

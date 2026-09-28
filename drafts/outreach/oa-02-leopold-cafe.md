@@ -9,7 +9,7 @@ Subject: leopoldcafe.com is showing an error page
 
 Hi Leopold Cafe team,
 
-My name is Krutik Mhatre. I build websites, I'm doing my B.Tech at KJ Somaiya College of Engineering here in Mumbai, and I'm currently interning in web development at Ediglobe.
+My name is Krutik Mhatre. I build websites, I'm doing my B.Tech at KJ Somaiya College of Engineering here in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your Facebook page lists leopoldcafe.com as the cafe's website, but today it returned a "410 - It is gone" error, and the https:// version fails with a certificate warning. Visitors, many of them tourists, hit a dead end instead of your menu and your story since 1871.
 

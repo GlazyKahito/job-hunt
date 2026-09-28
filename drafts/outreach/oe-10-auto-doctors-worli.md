@@ -9,7 +9,7 @@ Subject: A website for Auto Doctors, Worli
 
 Hello Auto Doctors,
 
-I'm Krutik Mhatre, a Mumbai-based B.Tech student at KJ Somaiya College of Engineering who builds websites; I'm also a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai-based B.Tech student at KJ Somaiya College of Engineering who builds websites; I recently completed a web development internship at Ediglobe.
 
 Your Facebook page says you've done body shop and mechanical work on Indian and imported cars for more than 40 years, yet the only link there is a Google Maps listing. Owners in Worli, Prabhadevi or Bandra looking for accident repair or restoration have no site to read about your work.
 

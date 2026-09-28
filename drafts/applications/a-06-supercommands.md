@@ -8,7 +8,7 @@ Subject: Application: Full-Stack SDE (Founding Team) Internship – Krutik Mhatr
 
 Hi SuperCommands team,
 
-I'm Krutik Mhatre, applying for the Full-Stack SDE Intern (Founding Team) role. I'm in the 2025 to 2029 B.Tech programme at KJ Somaiya College of Engineering and joined Ediglobe as a Web Development Intern in July 2026.
+I'm Krutik Mhatre, applying for the Full-Stack SDE Intern (Founding Team) role. I'm in the 2025 to 2029 B.Tech programme at KJ Somaiya College of Engineering and completed a web development internship at Ediglobe (July to September 2026).
 
 A keyboard-first command layer for the browser is the sort of tool I would use myself, and the brief of React with hooks and Context, responsive layouts, Lighthouse performance and SEO overlaps with the work I enjoy most. DCN Virtual Lab (https://dcn-proj.vercel.app) is my most state-heavy React build: React 19 and TypeScript behind a drag-and-drop network designer, simulated packets and a Wireshark-style inspector. GLAZY (https://glazy-portfolio.vercel.app), my portfolio, pairs Next.js 16 with React Three Fiber for a WebGL hero and a 3D project wheel, which taught me to care about keeping heavy visuals responsive.
 

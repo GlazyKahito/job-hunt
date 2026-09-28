@@ -9,7 +9,7 @@ Subject: Application: Web Development Internship – Krutik Mhatre
 
 Hello,
 
-I'm Krutik Mhatre, currently a Web Development Intern at Ediglobe alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I'm writing about the Web Development internship at Dr Joshi Holistic Multispecialty Research & Healthcare in Mumbai.
+I'm Krutik Mhatre; I recently completed a web development internship at Ediglobe alongside my B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I'm writing about the Web Development internship at Dr Joshi Holistic Multispecialty Research & Healthcare in Mumbai.
 
 A clinic focused on chronic kidney disease and cancer care support needs pages that patients can read easily on a phone, and your listing asks for responsive pages along with API and database integration.
 

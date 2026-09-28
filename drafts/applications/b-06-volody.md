@@ -8,7 +8,7 @@ Subject: Application: Frontend Internship – Krutik Mhatre
 
 Hello Volody team,
 
-I'm writing as Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) and Web Development Intern at Ediglobe, to apply for the Frontend Intern role at your Goregaon office.
+I'm writing as Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) who recently completed a web development internship at Ediglobe, to apply for the Frontend Intern role at your Goregaon office.
 
 Volody's AI-powered contract lifecycle management platform is legal tech, and the posting describes turning design wireframes into responsive React interfaces that call REST APIs, with TypeScript as a bonus.
 

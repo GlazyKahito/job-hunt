@@ -9,7 +9,7 @@ Subject: Application: Node.js Development Internship – Krutik Mhatre
 
 Hello Laita Automation team,
 
-My name is Krutik Mhatre. I'm studying for a B.Tech at KJ Somaiya College of Engineering (2025 to 2029), currently work as a Web Development Intern at Ediglobe, and would like to apply for the Node.js Development internship.
+My name is Krutik Mhatre. I'm studying for a B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, and would like to apply for the Node.js Development internship.
 
 Your posting sets a clear goal: by the end, the intern should ship a complex feature end to end, UI plus API plus tests, across Next.js and Node.js. Doing it for Gauge.ro's IoT water purifiers would be new territory for me, which is part of the appeal.
 

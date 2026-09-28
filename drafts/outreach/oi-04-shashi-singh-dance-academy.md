@@ -9,7 +9,7 @@ Subject: Leftover spa template text and missing batch timings on shashidanceacad
 
 Hello Shashi Singh Dance Academy,
 
-I'm Krutik Mhatre, a Mumbai-based web developer studying for my B.Tech at KJ Somaiya College of Engineering, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai-based web developer studying for my B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 Going through shashidanceacademy.com, I saw that the gallery is introduced with "Step into a world of luxury and relaxation with our exclusive gallery", which reads like text left over from a spa template, and the form heading says "Enquiery Now". I also couldn't find batch timings or fees for the Kandivali and Goregaon centres, which parents usually want first.
 

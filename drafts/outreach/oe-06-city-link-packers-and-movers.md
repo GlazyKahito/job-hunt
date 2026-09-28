@@ -9,7 +9,7 @@ Subject: Two small fixes for citylinkpackers.com on mobile
 
 Hello City Link team,
 
-My name is Krutik Mhatre; I'm a web developer studying B.Tech at KJ Somaiya College of Engineering in Mumbai, and I'm also a Web Development Intern at Ediglobe.
+My name is Krutik Mhatre; I'm a web developer studying B.Tech at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 On a phone-sized screen, citylinkpackers.com is wider than the display and slides sideways, and the two numbers can't be tapped to call. The footer's "Follow Us" Facebook link is also malformed and opens an error page.
 

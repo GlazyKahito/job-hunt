@@ -9,7 +9,7 @@ Subject: A portfolio site for Sasindra Fototek?
 
 Hello Sasindra Fototek,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who makes websites and is presently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who makes websites, and I recently completed a web development internship at Ediglobe.
 
 Your Facebook page covers photography, videography, editing, designing and live streaming, but it has no website listed, only a phone number, email and Instagram. Someone planning a wedding or family function in Dombivli has to scroll through posts to judge your work.
 

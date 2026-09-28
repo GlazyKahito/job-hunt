@@ -9,7 +9,7 @@ Subject: Application: Software Development Intern Internship – Krutik Mhatre
 
 Hello Clearwater Analytics team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) and a Web Development Intern at Ediglobe, applying for the Software Development Intern role in Mumbai.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe, applying for the Software Development Intern role in Mumbai.
 
 The listing asks interns to learn the team's business domain quickly and ship tested features through code review with a mentor, which is exactly how I want to grow.
 

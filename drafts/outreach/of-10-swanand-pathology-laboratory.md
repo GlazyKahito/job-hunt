@@ -9,7 +9,7 @@ Subject: Security warning on swanandpathology.com since 2 September
 
 Hello Swanand Pathology team,
 
-I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, currently as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering in Mumbai who builds websites, and I recently completed a web development internship at Ediglobe.
 
 The security certificate on swanandpathology.com expired on 2 September 2026. Because the site sends every visitor to https, browsers now show a "not secure" warning first, and many people will close the tab instead of booking a home visit.
 

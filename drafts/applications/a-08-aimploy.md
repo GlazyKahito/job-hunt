@@ -8,7 +8,7 @@ Subject: Application: Full Stack Development Intern Internship – Krutik Mhatre
 
 Dear AImploy team,
 
-I am writing about the remote Full Stack Development Intern opening. KJ Somaiya College of Engineering is where I am doing my B.Tech (2025 to 2029), and I am concurrently a Web Development Intern at Ediglobe.
+I am writing about the remote Full Stack Development Intern opening. KJ Somaiya College of Engineering is where I am doing my B.Tech (2025 to 2029), and I recently completed a web development internship at Ediglobe.
 
 AImploy builds data-driven hiring tools for employers and candidates, and this internship covers both the interfaces and the APIs behind them. Hiring runs as a pipeline, which is why CRM360 (https://majorprojectwebdev.vercel.app) feels relevant: during my Ediglobe internship I built its pipeline board, contact and deal tracking, notifications and role-based access on MongoDB, Express, React and Node.js. I have also placed an AI model inside a product carefully with ScamShield (https://scamshield-olive.vercel.app), where a deterministic rule engine always runs, Gemini adds a semantic layer, and the app still works fully without an API key.
 

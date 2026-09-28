@@ -8,7 +8,7 @@ Subject: Application: Web Development Internship – Krutik Mhatre
 
 Hello Tungsten Fitness Club team,
 
-I am Krutik Mhatre, studying for a B.Tech at KJ Somaiya College of Engineering in Mumbai (2025 to 2029) and working as a Web Development Intern at Ediglobe; please consider me for your Web Development internship across Thane, Navi Mumbai and Mumbai.
+I am Krutik Mhatre, studying for a B.Tech at KJ Somaiya College of Engineering in Mumbai (2025 to 2029), and I recently completed a web development internship at Ediglobe; please consider me for your Web Development internship across Thane, Navi Mumbai and Mumbai.
 
 Tungsten pairs a state-of-the-art gym with technology as a one-stop fitness solution, and this internship covers supporting development, testing website features to catch bugs, and keeping reports and documentation.
 

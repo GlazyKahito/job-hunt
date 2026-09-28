@@ -9,7 +9,7 @@ Subject: Banquet enquiries for Radha Restaurant & Banquets
 
 Hi Radha team,
 
-Krutik Mhatre writing: alongside a B.Tech at KJ Somaiya College of Engineering, I work as a Web Development Intern at Ediglobe and build websites here in Mumbai.
+Krutik Mhatre writing: alongside a B.Tech at KJ Somaiya College of Engineering, I recently completed a web development internship at Ediglobe and build websites here in Mumbai.
 
 Radha runs a restaurant and an AC banquet hall opposite Poisar Gymkhana, yet I could only find the hall's details on third-party listings like VenueBookingz and Weddingz, and your Facebook page has no website link. Families planning a birthday end up comparing you on sites that promote other venues too.
 

@@ -6,7 +6,7 @@ Posting: https://www.linkedin.com/jobs/view/4471006616/
 To: apply via form: https://www.linkedin.com/jobs/view/4471006616/
 Subject: Application: Software Development Engineer Internship – Krutik Mhatre
 
-Please consider my application for the Software Development Engineer - Intern position at ecolyt.ai. I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), currently working as a Web Development Intern at Ediglobe.
+Please consider my application for the Software Development Engineer - Intern position at ecolyt.ai. I am Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029), and I recently completed a web development internship at Ediglobe.
 
 ecolyt.ai's AI-native products cover supply chain planning, ERP and CRM, and this remote internship centres on the backend services and APIs behind those applications.
 

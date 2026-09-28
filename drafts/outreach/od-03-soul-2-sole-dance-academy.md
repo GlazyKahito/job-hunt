@@ -9,7 +9,7 @@ Subject: A small naming slip on Soul 2 Sole's website
 
 Hi Chinmay and the Soul 2 Sole team,
 
-I'm Krutik Mhatre, a Mumbai web developer doing my B.Tech at KJ Somaiya College of Engineering and interning as a web developer at Ediglobe.
+I'm Krutik Mhatre, a Mumbai web developer doing my B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 On soul2soledanceacademy.in, the Teachers, Certificate Programs, KALA and Artistic Director pages are titled "Soul 2 Soul", the name Google results and browser tabs display. Several pages also keep automatic Wix addresses like /kk, /general-6 and /copy-of-regular-classes, which are harder to find in search or share with parents.
 

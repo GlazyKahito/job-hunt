@@ -9,7 +9,7 @@ Subject: Leftover template text on Om Datta Dental Clinic's contact page
 
 Hello Om Datta Dental Clinic team,
 
-I am Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Vidyavihar, currently interning at Ediglobe as a Web Development Intern.
+I am Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Vidyavihar, and I recently completed a web development internship at Ediglobe.
 
 On omdattadentalclinic.com/contact-us.php, the "Get In Touch!" section says "We are specialists in economics and information technologies", which is sample text from the website template rather than anything about dentistry. For patients in Ghatkopar West deciding where to book a root canal or implant consultation, a line like that makes the page feel unfinished.
 

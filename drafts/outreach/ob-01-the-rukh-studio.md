@@ -9,7 +9,7 @@ Subject: The email link on The Rukh Studio's website
 
 Hello Rukh Studio team,
 
-I'm Krutik Mhatre, a web developer in Mumbai, a B.Tech student at KJ Somaiya College of Engineering and currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer in Mumbai, a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 While looking at therukhstudio.com, I noticed that the footer line "Email Id : therukhstudio@gmail.com" is linked to info@mysite.com, the placeholder address Wix puts in new templates. Anyone who taps it to ask about a kitchen or a full flat gets a draft addressed to the wrong inbox, so an interested client could write to you and never hear back.
 

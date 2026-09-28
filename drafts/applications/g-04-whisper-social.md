@@ -9,7 +9,7 @@ Subject: Application: Mobile App Development Internship – Krutik Mhatre
 
 Hello,
 
-I'm Krutik Mhatre, a Web Development Intern at Ediglobe who is studying for a B.Tech at KJ Somaiya College of Engineering (2025 to 2029), and I'm applying for the part-time Mobile App Development internship at Whisper Social.
+I'm Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering (2025 to 2029) who recently completed a web development internship at Ediglobe, and I'm applying for the part-time Mobile App Development internship at Whisper Social.
 
 An anonymous, location-based app where people connect nearby without an account is an interesting product to build for, and I appreciate that you ask interns to question AI-generated code before shipping it.
 

@@ -9,7 +9,7 @@ Subject: A shoot enquiry form for Pixelnicstudio
 
 Hello Pixelnicstudio team,
 
-I'm Krutik Mhatre, a Mumbai web developer; alongside my B.Tech at KJ Somaiya College of Engineering, I'm a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai web developer; alongside my B.Tech at KJ Somaiya College of Engineering, I recently completed a web development internship at Ediglobe.
 
 Your contact page lists two phone numbers and notes that you may be travelling if neither answers, but it has no enquiry form, and the footer still reads "Copyright 2019". Expecting parents often want to share a due date or baby's age late at night, when calling is not practical.
 

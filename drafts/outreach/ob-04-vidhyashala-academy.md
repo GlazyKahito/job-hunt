@@ -9,7 +9,7 @@ Subject: Enquiries from Vidhyashala Academy's contact page may not be arriving
 
 Hello Vidhyashala Academy team,
 
-I'm Krutik Mhatre, a student web developer (B.Tech, KJ Somaiya College of Engineering) and a Web Development Intern at Ediglobe, based here in Mumbai.
+I'm Krutik Mhatre, a student web developer (B.Tech, KJ Somaiya College of Engineering) based here in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 Your contact page sends its form to a contact.php file, but vidhyashalaacademy.com is hosted on GitHub Pages, which cannot run PHP; when I checked that address it answered with a 405 error, so parents' messages are probably failing. Separately, opening https://vidhyashalaacademy.com without "www" shows a certificate warning.
 

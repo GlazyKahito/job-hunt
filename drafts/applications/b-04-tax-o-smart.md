@@ -8,7 +8,7 @@ Subject: Application: ReactJS Development Internship – Krutik Mhatre
 
 Hello Tax-O-Smart team,
 
-This is Krutik Mhatre, a Web Development Intern at Ediglobe and a B.Tech student at KJ Somaiya College of Engineering, Mumbai (2025 to 2029), applying for the ReactJS Development internship in Mumbai.
+This is Krutik Mhatre, a B.Tech student at KJ Somaiya College of Engineering, Mumbai (2025 to 2029) who recently completed a web development internship at Ediglobe, applying for the ReactJS Development internship in Mumbai.
 
 Tax and accounting products depend on accurate input, so I noticed your posting puts advanced form validation with custom rules, React Hooks and Context, and RESTful/GraphQL data fetching at the centre of the role.
 

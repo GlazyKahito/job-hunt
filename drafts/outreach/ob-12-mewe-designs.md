@@ -9,7 +9,7 @@ Subject: An error page on mewedesigns.com
 
 Hello Mewe Designs team,
 
-I'm Krutik Mhatre, a web developer from Mumbai, doing a B.Tech at KJ Somaiya College of Engineering and working as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer from Mumbai, doing a B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 When I tried mewedesigns.com/projects (your menu calls that section Projects), the site returned Django's technical debug page with an error traceback instead of a normal "page not found" message. That screen is meant only for developers; it shows internal code details to visitors and means debug mode is on in production.
 

@@ -9,7 +9,7 @@ Subject: thehouseofbakers.com now shows a parking page
 
 Hi team at The House Of Bakers,
 
-I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, currently a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai, and I recently completed a web development internship at Ediglobe.
 
 While looking up your Mulund West bakery, I noticed that thehouseofbakers.com no longer shows your contact page; it now opens a GoDaddy domain-parking screen. Anyone who finds that address on Google hits a dead end instead of your bakes, timings and number.
 

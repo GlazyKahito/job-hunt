@@ -9,7 +9,7 @@ Subject: An unexpected post on the HM Classes website
 
 Hello HM Classes team,
 
-I'm Krutik Mhatre, a Mumbai web developer studying for a B.Tech at KJ Somaiya College of Engineering and working as a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai web developer studying for a B.Tech at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 While reading hmclasses.in I found two blog posts: the default WordPress "Hello world!" post, and one titled "kms activator windows 10", which is about pirated Windows activation. Parents searching for your Malad West classes could land on that page, and posts like this sometimes appear when a login or plugin has been misused.
 

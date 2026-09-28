@@ -9,7 +9,7 @@ Subject: Prices and a fixed search link for Pink Nails
 
 Hello Pink Nails,
 
-I'm Krutik Mhatre, a Mumbai-based web developer; I'm a B.Tech student at KJ Somaiya College of Engineering and a Web Development Intern at Ediglobe.
+I'm Krutik Mhatre, a Mumbai-based web developer; I'm a B.Tech student at KJ Somaiya College of Engineering, and I recently completed a web development internship at Ediglobe.
 
 Your services page lists treatments from bio gel extensions to Korean facials, but none show a price, and the contact page has a map link but no written address. Also, pinknails.in/nail-art-mumbai.html still appears in search results but now returns a 404, so people searching for nail art land on an error.
 

@@ -23,6 +23,10 @@ Dental Clinic; Pixelnicstudio; the CORE studio; Mewe Designs.
 
 Other helpers are working at the same time on neighbouring segments. Stay strictly inside yours.
 
+**The list above is not complete.** Before drafting for anyone, also check `tracking\applications.csv`,
+`tracking\outreach.csv` and every file in `tracking\_parts\`, and skip any company, business or
+email address that already appears there (including ones added by helpers running right now).
+
 ---
 
 ## A. Internship applications
@@ -53,8 +57,8 @@ Subject: Application: <Role title> Internship – Krutik Mhatre
 <body>
 ```
 **Body:** plain text, 120-180 words total, natural first-person voice ("I'm Krutik Mhatre, ...").
-1. Who he is (B.Tech student at KJ Somaiya College of Engineering, Web Development Intern at
-   Ediglobe) and the exact role.
+1. Who he is (B.Tech student at KJ Somaiya College of Engineering who recently completed a web
+   development internship at Ediglobe; never say he is currently an intern) and the exact role.
 2. One or two sentences on a REAL, specific detail from this posting or company.
 3. Two or three sentences on the 1-2 most relevant projects from `candidate.md`, with live links,
    matched to what the posting asks for.
@@ -104,8 +108,8 @@ Subject: <specific to them>
 <body>
 ```
 **Body:** plain text, 110-160 words, friendly and specific, natural first-person voice.
-1. Who he is: a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai,
-   currently a Web Development Intern at Ediglobe.
+1. Who he is: a web developer and B.Tech student at KJ Somaiya College of Engineering in Mumbai
+   who recently completed a web development internship at Ediglobe (never "currently an intern").
 2. The specific thing he noticed about THEIR presence and why it matters to their customers. Be
    tactful: describe the problem, don't insult the business.
 3. What he would build for them, concretely, tied to that need.
@@ -127,3 +131,74 @@ containing commas.
 ## Final reply
 A short table (name, role or need, type, file) and a list of what you skipped and why. If you hit
 a search limit before your target, stop, save what you have, and say so.
+
+---
+
+## C. US website outreach ($10 website offer)
+
+Krutik (a web developer in Mumbai, India) offers independent **United States** small businesses a
+simple working website for a flat **$10**. Target US businesses only (no Canada, UK, EU, Australia:
+their laws require prior consent for cold commercial email).
+
+**Never target:** medical, dental, mental-health or any healthcare provider; lawyers; financial,
+tax or insurance advisers; cannabis, firearms, gambling, adult, crypto; chains or franchises;
+government bodies; schools for minors. Independent restaurants, cafes, bakeries, food trucks,
+home services and trades, salons, barbers, gyms, yoga and dance studios, pet groomers,
+boutiques, florists, bookstores, photographers, event planners and similar are fine.
+
+**Real, specific need you observed yourself:** no website (only Facebook/Instagram/Yelp/Google
+listing), a dead or parked domain, an expired certificate, a site unusable on a phone, broken
+links or forms, menus/prices only as images or PDFs, placeholder template text. Record exactly
+what you saw and where.
+
+**Email address rules:** only an address the business itself publishes for enquiries (its site,
+its Facebook About page, its Google/Yelp listing showing its own email). Never guess or build one,
+never use an employee's personal address unless it is the one the business lists for contact.
+Confirm MX records for non-gmail/outlook/yahoo/icloud domains. If no published email, skip.
+
+**File:** `drafts\outreach-us\<prefix>-NN-<slug>.md`
+```
+Business: <name>
+Category: <type>
+Location: <City, State>, USA
+Website status: <none / down / not mobile-friendly / etc.>
+Observed need: <one sentence: what you saw and where>
+Source: <url where you found the email>
+To: <published business email>
+Subject: <honest and specific to them; never "Re:" or "Fwd:"; no clickbait>
+
+<body>
+```
+
+**Body (plain text, 120-170 words, US English, friendly, specific, no hype):**
+1. Greeting ("Hi <business> team,").
+2. Who he is: Krutik Mhatre, a web developer based in Mumbai, India, a B.Tech student at KJ
+   Somaiya College of Engineering who recently completed a web development internship at Ediglobe.
+3. The specific thing he noticed about THEIR online presence and why it matters to their customers.
+   Be tactful: describe the problem, never insult the business.
+4. What he would build, tied to that need (for example a one-page site with menu, hours, map and a
+   contact form).
+5. The offer, stated plainly, in words close to: "I'd build it for a flat $10. That covers the
+   design and build, and I can host it free on a platform like Vercel. A custom domain is extra and
+   would be registered in your own name."
+6. One line of proof: https://glazy-portfolio.vercel.app plus ONE relevant live project from
+   `candidate.md`.
+7. A low-pressure ask (reply, or a 10-minute video call).
+8. The line: `I work fully online, so everything happens over email and video calls.`
+9. The line: `This is a one-time commercial email about my web design services.`
+10. Signature lines exactly:
+    `Krutik Mhatre`
+    `kahitokrutik@gmail.com | +91 90822 02088`
+    `{{POSTAL_ADDRESS}}`
+11. Final line exactly: `If you'd rather not hear from me, reply "unsubscribe" and I won't email you again.`
+Never promise delivery times, guarantees, rankings, traffic or anything not listed above. Never
+offer anything free beyond the free hosting mentioned in point 5. No two drafts may share a
+sentence except points 5, 8, 9, 10 and 11.
+
+**Do NOT create Gmail drafts** for section C. Files and CSV only (the postal address is still
+missing; Claude adds it later).
+
+**CSV:** `tracking\_parts\<prefix>.csv`, NO header, exactly 14 columns:
+`id,date_drafted,business,category,location,website_status,observed_need,contact_email,source_url,status,date_sent,response,response_date,notes`
+status = `drafted-needs-address`. Quote fields containing commas.
+Also check `tracking\outreach.csv` and every `tracking\_parts\u*.csv` so you never repeat a business.
